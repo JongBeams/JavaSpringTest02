@@ -10,7 +10,7 @@ import java.util.Arrays;
 //Configuration 클래스 파일 결합
 @Configuration
 //컴포넌트를 어떤 패키지에서 읽어야 할지 알려주는 어노테이션
-@ComponentScan("io.jongbeom.springboot.intellij.testproject01.examples.a1")
+@ComponentScan //("io.jongbeom.springboot.intellij.testproject01.examples.a1")
 public class SimpleSpringContextLuncherApplication {
 
     
