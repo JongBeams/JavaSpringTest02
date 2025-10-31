@@ -13,10 +13,6 @@ import java.util.Arrays;
 @ComponentScan //("io.jongbeom.springboot.intellij.testproject01.examples.a1")
 public class SimpleSpringContextLuncherApplication {
 
-    
-
-
-
 
     public static void main(String[] args) {
 
